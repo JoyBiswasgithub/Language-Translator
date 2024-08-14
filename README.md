@@ -1,7 +1,3 @@
-# Language-Translator
-Language Translator Using RNN
-# Seq2Seq Model for Machine Translation
-
 ## Introduction
 
 This project implements a Seq2Seq (Sequence-to-Sequence) model using Recurrent Neural Networks (RNNs) for machine translation. The model, built with TensorFlow and Keras, translates sentences from one language to another. It features an encoder-decoder architecture using Long Short-Term Memory (LSTM) units, making it suitable for handling sequences of varying lengths and learning complex mappings between languages.
